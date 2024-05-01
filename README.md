@@ -22,6 +22,8 @@
 
 
 ## Main Features
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsilas-x%2FtxAdmin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsilas-x%2FtxAdmin?ref=badge_shield)
+
 - Recipe-based Server Deployer: create a server in under 60 seconds! ([more info](docs/recipe.md))
 - Start/Stop/Restart your server instance or resources
 - Full-featured in-game admin menu:
@@ -104,3 +106,6 @@ ConVar usage **example** for different port and profile:
 - [Announcement Sound](https://freesound.org/people/IENBA/sounds/545495/) made by __IENBA__ is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/);
 - [Message Sound](https://freesound.org/people/Divinux/sounds/198414/) made by __Divinux__ is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/);
 - Especial thanks to everyone that contributed to this project, especially the very fine Discord folks that provide support for others;
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsilas-x%2FtxAdmin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsilas-x%2FtxAdmin?ref=badge_large)
